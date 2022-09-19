@@ -1,1 +1,2 @@
-# lord_of_the_processors
+# Lord of the Processors: The Two Towers
+Parallel programming with Python using MPI library. A parallel algorithm was implemented for a game called “Lord of the Processors: The Two Towers” which is a similar game to the combination of battleship and tower defense.
